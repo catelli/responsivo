@@ -1,2 +1,2 @@
-# responsivo
-Exemplos responsivos - Workshop Sites Inteligentes
+# responsive
+Exemplos Responsivos

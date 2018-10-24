@@ -1,0 +1,23 @@
+section {
+	display: flex;
+}
+
+.full-size {
+	width: 100%;
+}
+
+.half-size {
+	width: 50%;
+}
+
+.same {
+	flex-grow: 0;
+}
+
+.grow {
+	flex-grow: 1;
+}
+
+.grow-double {
+	flex-grow: 2;
+}
